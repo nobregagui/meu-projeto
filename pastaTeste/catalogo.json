@@ -1,0 +1,18 @@
+[{
+    "codigo" : "1245",
+    "titulo" : "Casa coruja",
+    "duracao" : "20",
+    "atores" : ["Luz", "Amity"],
+    "anoDeLancamento" : "2020",
+    "Em Cartaz" : true
+},
+{
+    "codigo" : "6572",
+    "titulo" : "Caçadores de bugs",
+    "duracao" : "25",
+    "atores" : ["Miko", "Five"],
+    "anoDeLancamento" : "2022",
+    "Em Cartaz" : false
+}
+]
+

@@ -1,0 +1,19 @@
+[
+    {},
+    {"codigo": 152663,
+        "titulo": "Naruto",
+        "duracao": 1.35,
+        "atores": ["Naruto", "Sasuke", "Sakura"],
+        "anoDeLancamento": 2022,
+        "emCartaz": false
+    },
+
+    {"codigo": 352761,
+    "titulo": "Carros",
+    "duracao": 1.56,
+    "atores": ["Mate", "Relâmpago"],
+    "anoDeLancamento": 2021,
+    "emCartaz": true
+    }
+]
+
