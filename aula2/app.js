@@ -1,7 +1,5 @@
-const fs = require('fs');
-const moment = require('moment');
-const superherois = require('./superherois')
+const http = require('http')
 
-let dados = fs.readFileSync(__dirname + '/dados.txt', 'utf8')
-let data = moment().format('MM do YY')
-console.log(superherois)
+http.createServer((req, res) => {
+    console.log("Servidor está rodandno")
+}).listen(3030)
