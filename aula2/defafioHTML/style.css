@@ -1,0 +1,45 @@
+html {
+        padding-left: 200px;
+        padding-right: 200px;
+}
+
+body {
+        margin: auto;
+}
+
+
+.imagem {
+        display: block;
+        margin-left: auto;
+        margin-right: auto }
+
+.infos {
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+}
+
+footer {
+                border-top: rgb(0, 0, 0) solid;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                
+}
+
+.img {
+        padding: 20px;
+        margin: 10px;
+}
+
+.rodape a {
+        margin: 0 2rem;
+        color: #a7a7a7;
+        font-size: 1.3rem;
+    }
+    
+    .rodape ul {
+        display: flex;
+    }
+    
